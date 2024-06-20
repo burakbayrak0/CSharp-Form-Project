@@ -1,0 +1,11 @@
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\bin\Debug\atyarisi.exe.config
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\bin\Debug\atyarisi.exe
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\bin\Debug\atyarisi.pdb
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\obj\Debug\kosuyarisi.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\obj\Debug\kosuyarisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\obj\Debug\atyarisi.kosuyarisi.resources
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\obj\Debug\atyarisi.Properties.Resources.resources
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\obj\Debug\kosuyarisi.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\obj\Debug\kosuyarisi.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\obj\Debug\atyarisi.exe
+C:\Users\Burak\Desktop\B-Uygulamalar\kosuyarisi\atyarisi\atyarisi\obj\Debug\atyarisi.pdb
